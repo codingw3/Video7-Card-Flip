@@ -1,10 +1,10 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=codingw3%2FVideo7-Card-Flip&countColor=%233cb371)
 
-# Word and Character Counter | HTML CSS JavaScript
+# Card Flip | HTML CSS JavaScript
 
 ![Level](https://img.shields.io/badge/Level-Junior-green?style=for-the-badge)
 
-- [Video](youtube.com/@codingw3)
+- [Video](https://youtu.be/z5C5QxkRwtY)
 - [Demo](https://codingw3.github.io/Video7-Card-Flip)
 
 ## Technologies
